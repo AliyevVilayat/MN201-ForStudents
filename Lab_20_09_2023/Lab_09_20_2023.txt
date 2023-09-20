@@ -1,0 +1,3 @@
+1. 2-dən müsbət n-ə qədər olan ədədlər arasında sadə ədələrin sayını tapan alghoritm qurun.(sadə ədəd dedikdə  yalnız özünə və 1ə bölünən ədədlər nəzərdə tutulur).
+2. Verilmiş tam ədədin neçə mərtəbəsi olduğunu tapın. (Məs: input 253 - output 3 mərtəbəlidir).
+3. Ədədin 3-ün qüvvətinin olub-olmamasını tapın.
