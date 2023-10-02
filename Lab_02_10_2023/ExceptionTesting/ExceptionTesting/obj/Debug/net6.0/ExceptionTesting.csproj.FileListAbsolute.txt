@@ -1,0 +1,15 @@
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\bin\Debug\net6.0\ExceptionTesting.exe
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\bin\Debug\net6.0\ExceptionTesting.deps.json
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\bin\Debug\net6.0\ExceptionTesting.runtimeconfig.json
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\bin\Debug\net6.0\ExceptionTesting.dll
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\bin\Debug\net6.0\ExceptionTesting.pdb
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\obj\Debug\net6.0\ExceptionTesting.csproj.AssemblyReference.cache
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\obj\Debug\net6.0\ExceptionTesting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\obj\Debug\net6.0\ExceptionTesting.AssemblyInfoInputs.cache
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\obj\Debug\net6.0\ExceptionTesting.AssemblyInfo.cs
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\obj\Debug\net6.0\ExceptionTesting.csproj.CoreCompileInputs.cache
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\obj\Debug\net6.0\ExceptionTesting.dll
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\obj\Debug\net6.0\refint\ExceptionTesting.dll
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\obj\Debug\net6.0\ExceptionTesting.pdb
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\obj\Debug\net6.0\ExceptionTesting.genruntimeconfig.cache
+C:\Users\vilayat.aliyev\source\repos\ExceptionTesting\ExceptionTesting\obj\Debug\net6.0\ref\ExceptionTesting.dll
