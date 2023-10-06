@@ -1,0 +1,12 @@
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\bin\Debug\net6.0\EmployeProject.Core.deps.json
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\bin\Debug\net6.0\EmployeProject.Core.dll
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\bin\Debug\net6.0\EmployeProject.Core.pdb
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\obj\Debug\net6.0\EmployeProject.Core.csproj.AssemblyReference.cache
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\obj\Debug\net6.0\EmployeProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\obj\Debug\net6.0\EmployeProject.Core.AssemblyInfoInputs.cache
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\obj\Debug\net6.0\EmployeProject.Core.AssemblyInfo.cs
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\obj\Debug\net6.0\EmployeProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\obj\Debug\net6.0\EmployeProject.Core.dll
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\obj\Debug\net6.0\refint\EmployeProject.Core.dll
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\obj\Debug\net6.0\EmployeProject.Core.pdb
+C:\Users\vilayat.aliyev\source\repos\EmployeeProject\EmployeProject.Core\obj\Debug\net6.0\ref\EmployeProject.Core.dll
