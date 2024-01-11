@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\LabReflection\LabReflection\bin\Debug\net6.0\LabReflection.exe
+C:\Users\Asus\source\repos\LabReflection\LabReflection\bin\Debug\net6.0\LabReflection.deps.json
+C:\Users\Asus\source\repos\LabReflection\LabReflection\bin\Debug\net6.0\LabReflection.runtimeconfig.json
+C:\Users\Asus\source\repos\LabReflection\LabReflection\bin\Debug\net6.0\LabReflection.dll
+C:\Users\Asus\source\repos\LabReflection\LabReflection\bin\Debug\net6.0\LabReflection.pdb
+C:\Users\Asus\source\repos\LabReflection\LabReflection\obj\Debug\net6.0\LabReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\LabReflection\LabReflection\obj\Debug\net6.0\LabReflection.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\LabReflection\LabReflection\obj\Debug\net6.0\LabReflection.AssemblyInfo.cs
+C:\Users\Asus\source\repos\LabReflection\LabReflection\obj\Debug\net6.0\LabReflection.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\LabReflection\LabReflection\obj\Debug\net6.0\LabReflection.dll
+C:\Users\Asus\source\repos\LabReflection\LabReflection\obj\Debug\net6.0\refint\LabReflection.dll
+C:\Users\Asus\source\repos\LabReflection\LabReflection\obj\Debug\net6.0\LabReflection.pdb
+C:\Users\Asus\source\repos\LabReflection\LabReflection\obj\Debug\net6.0\LabReflection.genruntimeconfig.cache
+C:\Users\Asus\source\repos\LabReflection\LabReflection\obj\Debug\net6.0\ref\LabReflection.dll

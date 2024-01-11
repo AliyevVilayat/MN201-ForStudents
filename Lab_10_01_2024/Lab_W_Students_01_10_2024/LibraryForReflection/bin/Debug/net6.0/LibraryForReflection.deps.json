@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LibraryForReflection/1.0.0": {
+        "dependencies": {
+          "LabReflection": "1.0.0"
+        },
+        "runtime": {
+          "LibraryForReflection.dll": {}
+        }
+      },
+      "LabReflection/1.0.0": {
+        "runtime": {
+          "LabReflection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibraryForReflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LabReflection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

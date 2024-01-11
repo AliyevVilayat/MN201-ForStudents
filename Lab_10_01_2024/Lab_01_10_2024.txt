@@ -1,0 +1,3 @@
+1. Reflection vasitəsi ilə solution daxilində başqa bir project daxilində yerləşən internal class'ın private method'unu invoke edib, private property və field'larının dəyərini ekrana çıxaraq.
+
+2. Əl ilə daxil etdiyimiz tələbə məlumatlarını txt file'a yazmaq və daha sonra file daxilində yerləşən tələbə məlumatlarını tələbə listinə yığıb ekrana çıxarmaq lazımdır.
