@@ -1,0 +1,129 @@
+@font-face {
+    font-family: MyCustomFont;
+    src: url(../fonts/Marcellus-Regular.ttf);
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h2,h3{
+
+    font-family: MyCustomFont;
+}
+
+.container{
+
+    padding: 0 80px;
+}
+
+
+main{
+
+
+}
+
+.custom_section{
+
+    padding: 120px 0;
+    
+    
+}
+
+.custom_section .content{
+
+    text-align: center;
+}
+
+.content .content_title{
+
+    font-size: 45px;
+}
+
+.content p{
+
+    font-size: 18px;
+}
+
+.custom_section #offer_cofee_img{
+
+    width: 189px;
+    margin: 20px 0;
+}
+
+
+
+/* CARDS DIV START*/
+
+.cards_content{
+
+    margin-top:60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#offer .cards_content .card{
+
+    width: 23%;
+    text-align: center;
+}
+
+.card .card_title {
+
+    margin: 15px 0;
+}
+
+
+/* CARDS DIV END*/
+
+
+/* HERALD SECTION START*/
+
+#herald {
+
+    background-image: url(https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/new-new-h1-bacground-img-3.jpg);
+}
+
+#herald img{
+
+    width: 300px;
+}
+
+#herald .cards_content .card{
+
+
+    text-align: center;
+}
+
+#herald .cards_content .card .card_link{
+
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 10px;
+    color: black;
+    transition: 500ms;
+}
+
+#herald .cards_content .card .card_link:hover{
+
+    color: #BE9C79;
+    transform: translateX(10px);
+}
+
+
+
+
+#backgroundTestDiv{
+
+
+    height: 500px;
+
+    background-image: url(https://corretto.qodeinteractive.com/wp-content/uploads/2018/04/home-1-slider-image-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\source\\repos\\LabReflection\\LabReflection\\LabReflection.csproj": {}
+    "C:\\Users\\Asus\\OneDrive\\Desktop\\CodeAcademy\\MN201\\MN201-ForStudents\\Lab_10_01_2024\\Lab_W_Students_01_10_2024\\LabReflection\\LabReflection.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\source\\repos\\LabReflection\\LabReflection\\LabReflection.csproj": {
+    "C:\\Users\\Asus\\OneDrive\\Desktop\\CodeAcademy\\MN201\\MN201-ForStudents\\Lab_10_01_2024\\Lab_W_Students_01_10_2024\\LabReflection\\LabReflection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\LabReflection\\LabReflection\\LabReflection.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Desktop\\CodeAcademy\\MN201\\MN201-ForStudents\\Lab_10_01_2024\\Lab_W_Students_01_10_2024\\LabReflection\\LabReflection.csproj",
         "projectName": "LabReflection",
-        "projectPath": "C:\\Users\\Asus\\source\\repos\\LabReflection\\LabReflection\\LabReflection.csproj",
+        "projectPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\CodeAcademy\\MN201\\MN201-ForStudents\\Lab_10_01_2024\\Lab_W_Students_01_10_2024\\LabReflection\\LabReflection.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\source\\repos\\LabReflection\\LabReflection\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\CodeAcademy\\MN201\\MN201-ForStudents\\Lab_10_01_2024\\Lab_W_Students_01_10_2024\\LabReflection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

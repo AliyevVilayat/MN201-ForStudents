@@ -1,0 +1,42 @@
+1.Silah simulyasiyası olan bir task yazmaq:
+Silahın növü, güllə tutumu, hazırda maqazində olan güllə sayı, avtomat rejimdə bir milli saniyədə işlətdiyi güllə sayı kimi field-ləri olmalıdır.
+Tək-tək atış metodu olmalıdır və neçə güllə ataçağını qəbul etməlidir. Burada hazırda silahın maqazinində olan güllə sayını nəzərə almalısınız.
+Avtomat rejimində güllə atışı metodu olmalıdır və millisaniyə parametri qəbul etməlidir. 
+
+Burada da hazırda silahın maqazinində olan güllə sayını nəzərə almalısınız.
+
+
+
+
+2.1 Əsgər simulasiyasında olan bir task yazmaq:
+
+Solider obyekti aşağıdaki özəllikləri(property) və davranışları(behavior) olmalıdır.
+Özəlliklər:
+Name,Surname,Age,Rank,YearOfService,IsCurrentlyWorking.
+NOT: Yuxarıdaki property'lər olmadan Solider object yarana bilməz.
+
+Davranışlar:
+PerformDuty(string mission);
+Solider class üçün PerformDuty adlı virtual method təyin olunmalı, və hər bir derived class'a məxsus fərqli əməliyyatı icra etməlidir(override).
+NOT: İş təcrübəsi 3 ildən az olan və ya hazırda aktiv olaraq xidmət etməyən əsgər Solider objectlərinə bu tapşırıq şamil olunmur.(Yəni method işə salınarsa ekrana müvafiq error mesajı çıxarılmalıdır.)
+
+2.2 Solider class'dan miras alan(inheritence) bir sıra class'lar olacaq.
+InfantrySoldier(Piyada əsgər),
+MedicSolider(Tibbi əsgər), 
+DeveloperEngineerSolider(Developer əsgər).
+
+2.3 InfantrySolider object'in bir sıra özünə məxsus özəllikləri olacaq.
+Özəllikləri:
+*PrimaryWeapon - Piyada Əsgərinin istifadə etdiyi əsas silahı
+NOT:InfantrySolider object'i PrimaryWeapon olmadan yarana bilməz
+
+2.4 MedicSolider 
+Özəllikləri:
+*MedicSpeciality - Tibbi əsgərin hansı sahənin həkimi olduğu
+NOT:MedicSolider object'i MedicSpeciality olmadan yarana bilməz
+
+2.5 DeveloperEngineerSolider 
+Özəllikləri:
+*EngineerSpeciality - Developer əsgərin mühəndisi olduğu sahə
+NOT:DeveloperEngineerSolider object'i EngineerSpeciality olmadan yarana bilməz
+

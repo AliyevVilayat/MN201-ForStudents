@@ -1,0 +1,23 @@
+STUDENT
+* ID
+* Name
+* Surname
+* Email(nullable,unique)
+* Password(nullable)
+* Phone Number
+* Date of Birth
+* RegisteredDate
+* LastModifiedDate(nullable)
+* Status
+
+Group
+* ID
+* Name
+* CreatedDate
+* LastModifiedDate(nullable)
+* Status
+
+
+Group_Student
+*Student_Id
+*Group_Id

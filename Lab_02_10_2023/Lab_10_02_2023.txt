@@ -1,0 +1,31 @@
+IPerson interface
+
+- Name
+- Age
+- ShowInfo() - geriyə dəyər qaytarmır, ekrana məlumatları çıxarmaq üçün istifadə edəcəyik.
+
+Employee class (IPerson interface-ni implement edir)
+
+- Id - qıraqdan set etmək olmayacaq yalnız get etmək olacaq və hər dəfə yeni bir Employeee obyekt yaradıldıqda avtomatik bir vahid artacaq.
+- Salary
+
+ShowInfo methodunu implement etdikdə employee-nin bütün məlumatlarını geriyə qaytarmalıdı. Kənardan çağırıla bilməməlidir.
+ToString methodunu override edin və içində ShowInfo methodunu geriyə qaytarın.
+
+ps: name, age, salary olamadan employee obyekti yaratmaq olmaz.
+
+Department class
+
+- Name
+- EmployeeLimit - private field
+- Employees list - private field
+- AddEmployee() - parametr olaraq bir Employee obyekti qəbul edib employees listə əlavə edir əgər StudentLimit aşılarsa geriyə yaratdığınız CapacityLimitException qayatarılmalıdır.
+- UpdateEmployee() - parametr olaraq int id və Employee obyekti qəbul edib id'ə görə axtarış aparılacaq. Əgər id'ə görə obyekt qayıdarsa datalar update edilməlidir.
+- DeleteEmployee() - parametr olaraq int id qəbul edib id'ə görə axtarış aparılacaq. Əgər id'ə görə obyekt qayıdarsa obyekt silinəcək.
+
+- UpdateDepartment() - parametr olaraq newName və employeeLimit qəbul edəcək departmentinn name və employeeLimit dəyərlərini update edəcək.
+Not: Update Departmanet method’u bizə dolayısı yolla Employees list'in capacity'ni dəyişməyimizi istəyir.
+
+- GetAllEmployees() - parameterless'dir və geriyə Departament'ə daxil olan Employee'ları qaytarsın.
+
+Not: name və employeeLimit olmadan bir Department obyekti yaratmaq olmaz.

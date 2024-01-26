@@ -1,0 +1,26 @@
+
+
+1.Book adlı Record təyin olunmalıdır.
+
+string Title(Başlıq)
+string Author(Yazar)
+int PublicatinYear(Çap olunduğu tarix)
+
+*Təyin olunan Book Record'dan 2 instance alınacaq. Hər bir məlumat istifadəçi tərəfindən daxil edilməlidir.
+
+*Hər iki instance'ın bərabər olub olmamağı yoxlanılmalıdır.
+----------------------------------------------------------------
+*DeconstructRecord adında void extension Method yaradılmalıdır.
+Hər bir property deconstruct olmalıdır. Bu deconstruct əməliyyatı Extension method'a çıxarılmalıdır.(Yəni Book.DesconstructMyRecord yazaraq arqument şəklində hər bir instance ora göndərilib, ekrana onun property'lərinin dəyəri yazılmalıdır). 
+NOT: Console.Writeline(book.Title) nəzərdə tutulmur, dediyimiz kimi deconstruction olmalıdır.
+
+
+
+
+
+
+
+
+
+
+

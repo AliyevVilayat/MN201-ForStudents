@@ -1,0 +1,21 @@
+
+3.1. Vehicle class
+ - Color
+ - Year
+
+ NOT: Buraxılış ili təyin olunmamış Vehicle ola bilməz
+
+3.2. Car class (Car classı Vehicle-dan miras alir)
+
+ - Brand
+ - Model
+ - FuelCapacity
+ - FuelFor1Km
+ - CurrentFuel
+ - ShowInfo()
+
+ - Drive() -parametr olaraq maşının neçə km gedəcəyini qebul edir və əgər maşın o məsafəni gedə bilirsə maşının CurrentFuel dəyərini azaldır
+
+ NOT: Brandi, Modeli, FuelFor1km, FuelCapacity təyin olunmamış Car obyekti instance almaq olmaz
+
+

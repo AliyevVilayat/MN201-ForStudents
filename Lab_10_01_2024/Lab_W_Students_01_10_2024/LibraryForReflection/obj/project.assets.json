@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\source\\repos\\LabReflection\\LibraryForReflection\\LibraryForReflection.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Desktop\\CodeAcademy\\MN201\\MN201-ForStudents\\Lab_10_01_2024\\Lab_W_Students_01_10_2024\\LibraryForReflection\\LibraryForReflection.csproj",
       "projectName": "LibraryForReflection",
-      "projectPath": "C:\\Users\\Asus\\source\\repos\\LabReflection\\LibraryForReflection\\LibraryForReflection.csproj",
+      "projectPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\CodeAcademy\\MN201\\MN201-ForStudents\\Lab_10_01_2024\\Lab_W_Students_01_10_2024\\LibraryForReflection\\LibraryForReflection.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\source\\repos\\LabReflection\\LibraryForReflection\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\CodeAcademy\\MN201\\MN201-ForStudents\\Lab_10_01_2024\\Lab_W_Students_01_10_2024\\LibraryForReflection\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Asus\\source\\repos\\LabReflection\\LabReflection\\LabReflection.csproj": {
-              "projectPath": "C:\\Users\\Asus\\source\\repos\\LabReflection\\LabReflection\\LabReflection.csproj"
+            "C:\\Users\\Asus\\OneDrive\\Desktop\\CodeAcademy\\MN201\\MN201-ForStudents\\Lab_10_01_2024\\Lab_W_Students_01_10_2024\\LabReflection\\LabReflection.csproj": {
+              "projectPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\CodeAcademy\\MN201\\MN201-ForStudents\\Lab_10_01_2024\\Lab_W_Students_01_10_2024\\LabReflection\\LabReflection.csproj"
             }
           }
         }
