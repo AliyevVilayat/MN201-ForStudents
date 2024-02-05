@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TfnacrTPFnHgBgd/1B5P2m6B4K6CUMR98L1QxaLJhcRtCQeMGX+4tPcNu878wo5bRlJur5Dqc81MxAWo5+0C/g==",
+  "dgSpecHash": "92BbGmV6X9wGjduW2BwqgTrz42RC3//+ep5Kz+DOktafauDVoVaXj9X5NBZ1d1F+JYoIhDe77jtUU6f+PH+Org==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vilayat.aliyev\\source\\repos\\AcademyManagementProject\\AcademyManagementProject.DataAccess\\AcademyManagementProject.DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\vilayat.aliyev\\Desktop\\MN201-ForStudents\\LabProject_05_02_2024\\AcademyManagementProject\\AcademyManagementProject.DataAccess\\AcademyManagementProject.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vilayat.aliyev\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\vilayat.aliyev\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
