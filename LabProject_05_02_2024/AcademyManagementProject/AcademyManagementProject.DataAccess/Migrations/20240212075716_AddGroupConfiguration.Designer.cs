@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AcademyManagementProject.DataAccess.Migrations
 {
     [DbContext(typeof(AcademyManagementDbContext))]
-    [Migration("20240205083923_manyToManyStudentGroup")]
-    partial class manyToManyStudentGroup
+    [Migration("20240212075716_AddGroupConfiguration")]
+    partial class AddGroupConfiguration
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -34,7 +34,7 @@ namespace AcademyManagementProject.DataAccess.Migrations
 
                     b.Property<string>("Code")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
@@ -53,6 +53,9 @@ namespace AcademyManagementProject.DataAccess.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("Code")
+                        .IsUnique();
 
                     b.ToTable("Groups");
                 });

@@ -10,3 +10,15 @@ C:\Users\vilayat.aliyev\Desktop\MN201-ForStudents\LabProject_05_02_2024\AcademyM
 C:\Users\vilayat.aliyev\Desktop\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\refint\AcademyManagementProject.Core.dll
 C:\Users\vilayat.aliyev\Desktop\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\AcademyManagementProject.Core.pdb
 C:\Users\vilayat.aliyev\Desktop\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\ref\AcademyManagementProject.Core.dll
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\bin\Debug\net6.0\AcademyManagementProject.Core.deps.json
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\bin\Debug\net6.0\AcademyManagementProject.Core.dll
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\bin\Debug\net6.0\AcademyManagementProject.Core.pdb
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\AcademyManagementProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\AcademyManagementProject.Core.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\AcademyManagementProject.Core.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\AcademyManagementProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\AcademyManagementProject.Core.sourcelink.json
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\AcademyManagementProject.Core.dll
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\refint\AcademyManagementProject.Core.dll
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\AcademyManagementProject.Core.pdb
+C:\Users\Asus\OneDrive\Desktop\CodeAcademy\MN201\MN201-ForStudents\LabProject_05_02_2024\AcademyManagementProject\AcademyManagementProject.Core\obj\Debug\net6.0\ref\AcademyManagementProject.Core.dll

@@ -4,7 +4,7 @@
 
 namespace AcademyManagementProject.DataAccess.Migrations
 {
-    public partial class manyToManyStudentGroup : Migration
+    public partial class AddStudentsGroupManyToMany : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
