@@ -12,5 +12,7 @@ public class GroupConfiguration : IEntityTypeConfiguration<Group>
         builder
             .HasIndex(g => g.Code)
             .IsUnique();
+
+
     }
 }

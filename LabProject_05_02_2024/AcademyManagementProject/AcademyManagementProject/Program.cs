@@ -85,9 +85,10 @@ await groupService.CreateGroupAsync(group);
 
 using AcademyManagementProject.Core.Entities;
 using AcademyManagementProject.Core.Enums;
+using AcademyManagementProject.DataAccess.Exceptions;
 using AcademyManagementProject.DataAccess.Services;
 
-Group group =  new Group()
+/*Group group =  new Group()
 {
     Id = 2,
     Code="MN205",
@@ -95,4 +96,37 @@ Group group =  new Group()
 };
 
 GroupService groupService = new GroupService();
-await groupService.UpdateGroupAsync(group);
+await groupService.UpdateGroupAsync(group);*/
+
+////Delete
+//GroupService groupService = new();
+//await groupService.DeleteGroupAsync(2);
+
+
+GroupService groupService = new GroupService();
+
+try
+{
+    Group group = await groupService.GetGroupByIdAsync(11);
+    Console.WriteLine(group.Code);
+
+}catch(GroupNotFoundException gex)
+{
+    Console.WriteLine(gex.Message);
+}
+
+
+catch(Exception ex)
+{
+
+}
+finally
+{
+    Console.WriteLine("Finally blocks always execute");
+
+}
+
+
+
+
+
